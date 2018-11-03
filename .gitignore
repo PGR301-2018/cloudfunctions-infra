@@ -1,5 +1,4 @@
-deploy_infra
-deploy_infra.pub
+cf-infra:wq
 credentials.yaml
 .terraform
 
